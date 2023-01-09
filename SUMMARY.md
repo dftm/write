@@ -2,7 +2,7 @@
 
 ## 1⃣ First
 
-* [Welcome to my doc center](README.md)
+* [Welcome to the doc center](README.md)
 
 ## 🛠 Tools
 
