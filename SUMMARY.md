@@ -8,7 +8,7 @@
 * [Using GitHub](Using-GitHub.md)
 * [Using the Zapier API](Using-Zapier-API.md)
 
-## Group 1
+## On Blockchain
 
 * [Ethereum](group-1/ethereum\_fundamentals.md)
 * [A discussion on blockchain](group-1/a-discussion-on-blockchain.md)
