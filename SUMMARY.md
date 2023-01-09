@@ -4,14 +4,14 @@
 
 * [Parsing HTML with Python](README.md)
 * [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
-* [Using GitHub](tools/using-github.md)
+* [Using GitHub](Using-GitHub.md)
 
 ## 🔌 API
 
-* [Using the Zapier API](api/using-zapier-api.md)
-* [Postman-For-API-Testing](api/postman-for-api-testing.md)
+* [Using the Zapier API](Using-Zapier-API.md)
+* [Postman-For-API-Testing](Postman-For-API-Testing.md)
 
-## On Blockchain
+## ⛓ Blockchain
 
-* [Ethereum](on-blockchain/ethereum\_fundamentals.md)
-* [A discussion on blockchain](on-blockchain/a-discussion-on-blockchain.md)
+* [Ethereum](blockchain/ethereum\_fundamentals.md)
+* [A discussion on blockchain](blockchain/a-discussion-on-blockchain.md)
