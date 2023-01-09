@@ -1,14 +1,63 @@
-<h1>Parsing HTML with Python</h1><p>Parsing HTML is the process of extracting data from a webpage. This can be useful for a variety of purposes, such as data mining, data cleaning, and automated testing. In this guide, we will learn how to use Python to parse HTML.</p><h2>Prerequisites</h2><p>Before we begin, you will need to have Python installed on your machine. If you do not have Python installed, you can download it from the <a href="https://www.python.org/downloads/" target="_new">Python website</a>.</p><p>You will also need to install a library for parsing HTML. There are several options available, but the most popular library is <a href="https://pypi.org/project/beautifulsoup4/" target="_new">Beautiful Soup</a>. You can install Beautiful Soup by running the following command:</p><pre><div class="bg-black mb-4 rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><button class="flex ml-auto gap-2"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>Copy code</button></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs">pip install beautifulsoup4
-</code></div></div></pre><h2>Parsing HTML</h2><p>To parse HTML with Python, we will use the Beautiful Soup library. Beautiful Soup is a third-party Python library that is used for parsing HTML. It provides a simple and elegant way to extract data from HTML pages.</p><p>Here is an example of how to use Beautiful Soup to parse an HTML page:</p><pre><div class="bg-black mb-4 rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><button class="flex ml-auto gap-2"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>Copy code</button></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs language-python"><span class="hljs-keyword">import</span> requests
-<span class="hljs-keyword">from</span> bs4 <span class="hljs-keyword">import</span> BeautifulSoup
+# Parsing HTML with Python
 
-<span class="hljs-comment"># Make a request to the webpage</span>
-response = requests.get(<span class="hljs-string">'https://www.example.com'</span>)
+Parsing HTML is the process of extracting data from a webpage. This can be useful for a variety of purposes, such as data mining, data cleaning, and automated testing. In this guide, we will learn how to use Python to parse HTML.
 
-<span class="hljs-comment"># Parse the HTML of the webpage</span>
-soup = BeautifulSoup(response.text, <span class="hljs-string">'html.parser'</span>)
-</code></div></div></pre><p>In the example above, we use the <code>requests</code> library to make a request to the webpage at <code>https://www.example.com</code>. We then use the <code>BeautifulSoup</code> function to parse the HTML of the webpage. The <code>BeautifulSoup</code> function takes two arguments: the HTML to parse and the type of parser to use. In this case, we are using the <code>html.parser</code>, which is the built-in HTML parser in Python.</p><h2>Extracting Data from HTML</h2><p>Now that we have the HTML of the webpage parsed, we can start extracting data from it. Beautiful Soup provides several methods for extracting data from HTML.</p><h3>Extracting tags</h3><p>One of the most basic things you can do is extract tags from the HTML. To extract a tag, you can use the <code>find</code> method of the <code>BeautifulSoup</code> object. The <code>find</code> method returns the first tag that matches the specified criteria.</p><p>Here is an example of how to extract a <code>div</code> tag from the HTML:</p><pre><div class="bg-black mb-4 rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><button class="flex ml-auto gap-2"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>Copy code</button></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs language-python">div = soup.find(<span class="hljs-string">'div'</span>)
-</code></div></div></pre><p>The <code>find</code> method returns the first <code>div</code> tag that it finds in the HTML. If you want to find all the <code>div</code> tags, you can use the <code>find_all</code> method instead.</p><pre><div class="bg-black mb-4 rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><button class="flex ml-auto gap-2"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>Copy code</button></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs language-python">divs = soup.find_all(<span class="hljs-string">'div'</span>)
-</code></div></div></pre><p>The <code>find_all</code> method returns a list of all the <code>div</code> tags in the HTML.</p><h3>Extracting attributes</h3><p>You can also extract the attributes of a tag. For example, you might want to extract the <code>href</code> attribute of a <code>link</code> tag. To do this, you can use the <code>get</code> method of the tag.</p><pre><div class="bg-black mb-4 rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><button class="flex ml-auto gap-2"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>Copy code</button></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs language-python">link = soup.find(<span class="hljs-string">'link'</span>)
-href = link.get(<span class="hljs-string">'href'</span>)
-</code></div></div></pre><p>The <code>get</code> method returns the value of the specified attribute.</p>
+## Prerequisites
+
+Before we begin, you will need to have Python installed on your machine. If you do not have Python installed, you can download it from the [Python website](https://www.python.org/downloads/).
+
+You will also need to install a library for parsing HTML. There are several options available, but the most popular library is [Beautiful Soup](https://pypi.org/project/beautifulsoup4/). You can install Beautiful Soup by running the following command:
+
+```
+Copy codepip install beautifulsoup4
+```
+
+## Parsing HTML
+
+To parse HTML with Python, we will use the Beautiful Soup library. Beautiful Soup is a third-party Python library that is used for parsing HTML. It provides a simple and elegant way to extract data from HTML pages.
+
+Here is an example of how to use Beautiful Soup to parse an HTML page:
+
+```python
+Copy codeimport requests
+from bs4 import BeautifulSoup
+# Make a request to the webpage
+response = requests.get('https://www.example.com')
+# Parse the HTML of the webpage
+soup = BeautifulSoup(response.text, 'html.parser')
+```
+
+In the example above, we use the `requests` library to make a request to the webpage at `https://www.example.com`. We then use the `BeautifulSoup` function to parse the HTML of the webpage. The `BeautifulSoup` function takes two arguments: the HTML to parse and the type of parser to use. In this case, we are using the `html.parser`, which is the built-in HTML parser in Python.
+
+## Extracting Data from HTML
+
+Now that we have the HTML of the webpage parsed, we can start extracting data from it. Beautiful Soup provides several methods for extracting data from HTML.
+
+### Extracting tags
+
+One of the most basic things you can do is extract tags from the HTML. To extract a tag, you can use the `find` method of the `BeautifulSoup` object. The `find` method returns the first tag that matches the specified criteria.
+
+Here is an example of how to extract a `div` tag from the HTML:
+
+```python
+Copy codediv = soup.find('div')
+```
+
+The `find` method returns the first `div` tag that it finds in the HTML. If you want to find all the `div` tags, you can use the `find_all` method instead.
+
+```python
+Copy codedivs = soup.find_all('div')
+```
+
+The `find_all` method returns a list of all the `div` tags in the HTML.
+
+### Extracting attributes
+
+You can also extract the attributes of a tag. For example, you might want to extract the `href` attribute of a `link` tag. To do this, you can use the `get` method of the tag.
+
+```python
+Copy codelink = soup.find('link')
+href = link.get('href')
+```
+
+The `get` method returns the value of the specified attribute.
