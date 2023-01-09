@@ -1,14 +1,20 @@
 # Table of contents
 
-* [Cloudflare Basics](README.md)
-* [Parsing HTML with Python](Parse-HTML-with-Python.md)
-* [Postman-For-API-Testing](Postman-For-API-Testing.md)
-* [This is where the technical writing samples live.](<README (1).md>)
-* [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
-* [Using GitHub](Using-GitHub.md)
-* [Using the Zapier API](Using-Zapier-API.md)
+## 🛠 Tools
+
+* [Parsing HTML with Python](README.md)
+* [Using-AI-Day-To-Day](tools/using-ai-day-to-day.md)
+
+***
+
+* [This is where the technical writing samples live.](this-is-where-the-technical-writing-samples-live./README.md)
+  * [Using GitHub](this-is-where-the-technical-writing-samples-live./using-github.md)
+  * [Ethereum](this-is-where-the-technical-writing-samples-live./ethereum\_fundamentals.md)
+  * [A discussion on blockchain](this-is-where-the-technical-writing-samples-live./a-discussion-on-blockchain.md)
+
+## 🔌 API
 
 ## On Blockchain
 
-* [Ethereum](group-1/ethereum\_fundamentals.md)
-* [A discussion on blockchain](group-1/a-discussion-on-blockchain.md)
+* [Using the Zapier API](on-blockchain/using-zapier-api.md)
+* [Postman-For-API-Testing](on-blockchain/postman-for-api-testing.md)
