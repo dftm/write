@@ -6,4 +6,4 @@ coverY: 0
 
 # Welcome to my doc center
 
-This will be the place where documentation will be kept and enhanced.
+This will be the place where documentation will be kept and enhanced. Docs are developed in Markdown and maintained in GitHub, while GitBook creates a presentation layer for ease of navigation.
