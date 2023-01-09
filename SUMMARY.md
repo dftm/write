@@ -9,6 +9,7 @@
 * [Parsing HTML with Python](<README (1).md>)
 * [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
 * [Using GitHub](Using-GitHub.md)
+* [Using Docker](tools/using-docker.md)
 
 ## 🔌 API
 
