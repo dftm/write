@@ -20,3 +20,7 @@
 
 * [Ethereum](blockchain/ethereum\_fundamentals.md)
 * [A discussion on blockchain](blockchain/a-discussion-on-blockchain.md)
+
+## 🎞 VIDEOS
+
+* [Tutorials](videos/tutorials.md)
