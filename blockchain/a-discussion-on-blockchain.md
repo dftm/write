@@ -27,8 +27,8 @@ So, Alice and Bob agree to appoint Cedric as the keeper of a village ledger. Ced
 
 Cedric is partial to people and bribes, which he accommodates by adding or erasing records from the ledger and that will go unnoticed, until one day the villagers congregate to discuss the faults in this system. They move for a Distributed Ledger, giving everyone access to the same pen and paper. The ledger is kept in the village center for all to record favors and repayments. Community votes settle any disputes that occur. The new system is transparent and less prone to corruption and Cedric is out of the picture.
 
-| <p><img src="broken-reference" alt="">[3]</p><p><strong>Alice and Bob are about to revoke trust from Cedric and move to a Distributed Ledger.</strong></p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/0" alt="">[3]</p><p><strong>Alice and Bob are about to revoke trust from Cedric and move to a Distributed Ledger.</strong></p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Distributed Ledgers of today, are an attempt to solve an ancient problem with a modern approach. They must be more complex and more powerful than a pen and paper ledger, to be scalable for a population of 10 or 10 million.
 
@@ -45,8 +45,8 @@ All members of the network have their copy of the ledger and any changes are app
 * Public - access to ledger is public to participating nodes
 * Private - access to ledger is reserved to certain nodes
 
-| <h3 id="_r1w9qyjivv6q"><img src="broken-reference" alt="">[4] <img src="broken-reference" alt="">[5]</h3><p><strong>A peer-to-peer network example and a Centralized VS Decentralized Network Visualization</strong></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <h3 id="_r1w9qyjivv6q"><img src="../.gitbook/assets/1 (1)" alt="">[4] <img src="../.gitbook/assets/2" alt="">[5]</h3><p><strong>A peer-to-peer network example and a Centralized VS Decentralized Network Visualization</strong></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### Distributed Ledger Technology - a big deal? <a href="#_bja2my26j6tp" id="_bja2my26j6tp"></a>
 
@@ -57,8 +57,8 @@ Some disambiguation comes first. Blockchain technology has been used as a synony
 
 A blockchain uses several technological layers, including Distributed Ledger Technology, to enable applications.
 
-| <h3 id="_eb6w2uc2w5sk"><img src="broken-reference" alt="">[6]</h3><p><strong>Blockchain is a subset of Distributed Ledger Technology,</strong><br><strong>not all Distributed Ledger Technologies are blockchain</strong></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id="_eb6w2uc2w5sk"><img src="../.gitbook/assets/3" alt="">[6]</h3><p><strong>Blockchain is a subset of Distributed Ledger Technology,</strong><br><strong>not all Distributed Ledger Technologies are blockchain</strong></p> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 **Distributed Ledger Technologies can**
 
@@ -92,8 +92,8 @@ Blockchains are a small subset of the Distributed Ledger Technology sector. They
 
 #### &#x20;<a href="#_l35m8baiq3f1" id="_l35m8baiq3f1"></a>
 
-| <h3 id="_daid2u632"><img src="broken-reference" alt="">[8]</h3><p><strong>Blocks in a blockchain</strong></p> |
-| ------------------------------------------------------------------------------------------------------------- |
+| <h3 id="_daid2u632"><img src="../.gitbook/assets/4" alt="">[8]</h3><p><strong>Blocks in a blockchain</strong></p> |
+| ----------------------------------------------------------------------------------------------------------------- |
 
 **Blocks on the blockchain consist of the following:**
 
@@ -108,8 +108,8 @@ Blockchains are a small subset of the Distributed Ledger Technology sector. They
 
 A transaction on the blockchain will generally work as follows. First, someone will ask to transact. Then the transaction request will be broadcasted to the network of nodes that will validate it once it is completed. Then, a block is added to the chain and is made publicly available to view.
 
-| <h3 id="_aem9xqpwjwva"><img src="broken-reference" alt="">[9]</h3><p><strong>A transaction in a blockchain</strong></p> |
-| ----------------------------------------------------------------------------------------------------------------------- |
+| <h3 id="_aem9xqpwjwva"><img src="../.gitbook/assets/5 (1)" alt="">[9]</h3><p><strong>A transaction in a blockchain</strong></p> |
+| ------------------------------------------------------------------------------------------------------------------------------- |
 
 **Blockchain benefits**
 
@@ -126,16 +126,16 @@ Organizing and storing information in a blockchain encompasses certain benefits,
 * Anonymity
   * Network nodes are both identifiable yet anonymous
 
-| <p><img src="broken-reference" alt="">[10]</p><p><strong>Blockchain benefits visualization</strong></p> |
-| ------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/6 (1)" alt="">[10]</p><p><strong>Blockchain benefits visualization</strong></p> |
+| --------------------------------------------------------------------------------------------------------------- |
 
-| <p><img src="broken-reference" alt="">[11]</p><p><strong>Distributed Layer Technology in a blockchain, used for supply chain management</strong></p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/7 (1)" alt="">[11]</p><p><strong>Distributed Layer Technology in a blockchain, used for supply chain management</strong></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 
 
-| <h3 id="_q91rtstnqrq1"><img src="broken-reference" alt="">[12]</h3><p><strong>Distributed Layer Technology in a blockchain, used for smart contracts</strong></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id="_q91rtstnqrq1"><img src="../.gitbook/assets/8 (1)" alt="">[12]</h3><p><strong>Distributed Layer Technology in a blockchain, used for smart contracts</strong></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 
