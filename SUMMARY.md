@@ -18,10 +18,10 @@
 
 ## ⛓ Blockchain
 
-* [A discussion on blockchain](blockchain/a-discussion-on-blockchain.md)
-* [A discussion on blockchain part 2](blockchain/a-discussion-on-blockchain-part-2.md)
-* [Ethereum](blockchain/ethereum\_fundamentals.md)
+* [Οn blockchain](blockchain/on-blockchain.md)
+* [Οn blockchain #2](blockchain/on-blockchain-2.md)
 * [The\_Pirate\_Code\_V2.0](blockchain/the\_pirate\_code\_v2.0.md)
+* [Ethereum](blockchain/ethereum\_fundamentals.md)
 
 ## 🎞 VIDEOS
 
