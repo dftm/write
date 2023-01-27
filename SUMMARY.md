@@ -22,6 +22,7 @@
 * [Οn blockchain #2](blockchain/on-blockchain-2.md)
 * [The\_Pirate\_Code\_V2.0](blockchain/the\_pirate\_code\_v2.0.md)
 * [Ethereum](blockchain/ethereum\_fundamentals.md)
+* [🪂 Crypto Airdrops: A Complete Guide](blockchain/crypto-airdrops-a-complete-guide.md)
 
 ## 🎞 VIDEOS
 
