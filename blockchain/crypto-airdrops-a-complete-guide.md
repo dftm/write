@@ -1,6 +1,10 @@
-# 🪂 Crypto Airdrops: A Complete Guide
+---
+description: 'A Beginner''s Guide to Free Crypto: The Art of Airdropping'
+---
 
-A Beginner's Guide to Free Crypto: The Art of Airdropping
+# 🪂 Crypto Airdrops:                                           A Complete Guide
+
+
 
 ![](../.gitbook/assets/0.png)
 
