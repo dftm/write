@@ -26,9 +26,9 @@
 
 ***
 
-* [🔐 Security-related](security-related/README.md)
-  * [CVE-2022-44311](security-related/cve-2022-44311.md)
-  * [CVE-2022-35255](security-related/cve-2022-35255.md)
+* [🔐 Security-related](security-related.md)
+* [CVE-2022-44311](cve-2022-44311.md)
+* [CVE-2022-35255](cve-2022-35255.md)
 
 ## 🎞 VIDEOS
 
