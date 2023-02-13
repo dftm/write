@@ -4,11 +4,9 @@ cover: >-
 coverY: 97
 ---
 
-# Welcome to the doc center
+# 📖 The doc center
 
 This will be the place where documentation will be kept and maintained.&#x20;
-
-Welcome to the GitBook Doc Center!&#x20;
 
 Docs are developed in Markdown and maintained in GitHub, while GitBook creates a presentation layer for ease of navigation.
 

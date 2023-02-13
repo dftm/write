@@ -2,7 +2,7 @@
 
 ## 1⃣ First
 
-* [Welcome to the doc center](README.md)
+* [📖 The doc center](README.md)
 
 ## 🛠 Tools
 
@@ -22,7 +22,13 @@
 * [Οn blockchain #2](blockchain/on-blockchain-2.md)
 * [The\_Pirate\_Code\_V2.0](blockchain/the\_pirate\_code\_v2.0.md)
 * [Ethereum](blockchain/ethereum\_fundamentals.md)
-* [🪂 Crypto Airdrops: A Complete Guide](blockchain/crypto-airdrops-a-complete-guide.md)
+* [🪂 Crypto Airdrops:                                           A Complete Guide](blockchain/crypto-airdrops-a-complete-guide.md)
+
+***
+
+* [🔐 Security-related](security-related/README.md)
+  * [CVE-2022-44311](security-related/cve-2022-44311.md)
+  * [CVE-2022-35255](security-related/cve-2022-35255.md)
 
 ## 🎞 VIDEOS
 
