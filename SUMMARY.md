@@ -2,14 +2,7 @@
 
 ## 1⃣ First
 
-* [📖 The doc center](README.md)
-
-## 🛠 Tools
-
-* [Parsing HTML with Python](<README (1).md>)
-* [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
-* [Using GitHub](Using-GitHub.md)
-* [Using Docker](tools/using-docker.md)
+* [The doc center](README.md)
 
 ## 🔌 API
 
@@ -24,11 +17,17 @@
 * [Ethereum](blockchain/ethereum\_fundamentals.md)
 * [Crypto Airdrops:                                           A Complete Guide](blockchain/crypto-airdrops-a-complete-guide.md)
 
-***
+## 🔐 Security-related
 
-* [🔐 Security-related](security-related.md)
-* [CVE-2022-44311](cve-2022-44311.md)
-* [CVE-2022-35255](cve-2022-35255.md)
+* [CVE-2022-44311](security-related/cve-2022-44311.md)
+* [CVE-2022-35255](security-related/cve-2022-35255.md)
+
+## 🛠 Tools
+
+* [Parsing HTML with Python](<README (1).md>)
+* [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
+* [Using GitHub](Using-GitHub.md)
+* [Using Docker](tools/using-docker.md)
 
 ## 🎞 VIDEOS
 

@@ -2,7 +2,7 @@
 description: 'A Beginner''s Guide to Free Crypto: The Art of Airdropping'
 ---
 
-# 🪂 Crypto Airdrops:                                           A Complete Guide
+# Crypto Airdrops:                                           A Complete Guide
 
 
 
