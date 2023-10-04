@@ -3,11 +3,14 @@
 ## 1⃣ First
 
 * [The doc center](README.md)
+* [Curriculum \[⌛\]](first/curriculum.md)
+* [Dop Studio Basics](first/dop-studio-basics.md)
 
 ## 🔌 API
 
 * [Using the Zapier API](Using-Zapier-API.md)
 * [Postman-For-API-Testing](Postman-For-API-Testing.md)
+* [📝 API Stock](api/api-stock.md)
 
 ## ⛓ Blockchain
 

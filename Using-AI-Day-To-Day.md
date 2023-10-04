@@ -11,9 +11,9 @@ Document Outline
 7. Future of AI: In this section, we can discuss the potential future developments in AI and how they may impact the use of AI for day-to-day tasks.
 8. Conclusion: This section will summarize the main points of the document and discuss the potential for AI to transform the way we live and work.
 
-***
 
-***
+
+
 
 Introduction
 
