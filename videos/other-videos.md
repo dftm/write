@@ -11,3 +11,7 @@ Synthetic Agent - Made With Camtasia | Synthesia | Descript | Adobe Suite
 {% embed url="https://drive.google.com/file/d/1iUyc1lHOQzK_exiCYXDwckByU_bD9URA/view?usp=share_link" %}
 Pendo Walkthrough - Made With Camtasia | Synthesia | Descript | Adobe Suite
 {% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=LKzlGoDjMLg" %}
+AI CoWorker Fast Tutorial
+{% endembed %}
