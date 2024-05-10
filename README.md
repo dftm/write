@@ -4,9 +4,43 @@ cover: >-
 coverY: 97
 ---
 
-# The doc center
+# Knowledge Hub
 
-This will be the place where documentation will be kept and maintained.&#x20;
+
+
+[Click Here To Hire Me](https://tiny.cc/dftm-book)
+
+──────────────────────────────> \[ 💼 ]
+
+CV ✳ [tiny.cc/dftm-res](https://tiny.cc/dftm-res)\
+Cover ✳ [tiny.cc/dftm-cov](https://tiny.cc/dftm-cov)\
+Contact ✳ [tiny.cc/dftm-contact](https://tiny.cc/dftm-contact)
+
+──────────────────────────────> \[ 🌐 ]
+
+Blog ✳ [tiny.cc/lotek](https://tiny.cc/lotek)\
+Quora ✳ [tiny.cc/dftm-quora](https://tiny.cc/dftm-quora)\
+Linkedin ✳ [tiny.cc/dftm-lnkdin](https://tiny.cc/dftm-lnkdin)
+
+──────────────────────────────> \[ 🧰 ]
+
+Text ✳ [tiny.cc/dftm-write](https://tiny.cc/dftm-write)\
+Code ✳ [github.com/dftm](https://github.com/dftm)\
+Video ✳ [tiny.cc/dftm-vid](https://tiny.cc/dftm-vid)
+
+──────────────────────────────> \[ 🎓 ]
+
+Academy ✳ [tiny.cc/dftm-acdm](https://tiny.cc/dftm-acdm)\
+TBA ✳ [tba](https://about.me/dftm/edit)\
+TBA ✳ [tba](https://about.me/dftm/edit)
+
+──────────────────────────────> \[ 🚀 ]
+
+
+
+
+
+This will be the place where documentation and related links will be kept and maintained.&#x20;
 
 Docs are developed in Markdown and maintained in GitHub, while GitBook creates a presentation layer for ease of navigation.
 

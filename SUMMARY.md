@@ -1,8 +1,8 @@
 # Table of contents
 
-## 1⃣ First
+## 1️⃣ First
 
-* [The doc center](README.md)
+* [Knowledge Hub](README.md)
 * [Curriculum \[⌛\]](first/curriculum.md)
 * [Dop Studio Basics](first/dop-studio-basics.md)
 
@@ -12,7 +12,7 @@
 * [Postman-For-API-Testing](Postman-For-API-Testing.md)
 * [📝 API Stock](api/api-stock.md)
 
-## ⛓ Blockchain
+## ⛓️ Blockchain
 
 * [Οn blockchain](blockchain/on-blockchain.md)
 * [Οn blockchain #2](blockchain/on-blockchain-2.md)
@@ -25,14 +25,14 @@
 * [CVE-2022-44311](cve-2022-44311.md)
 * [CVE-2022-35255](cve-2022-35255.md)
 
-## 🛠 Tools
+## 🛠️ Tools
 
 * [Parsing HTML with Python](<README (1).md>)
 * [Using-AI-Day-To-Day](Using-AI-Day-To-Day.md)
 * [Using GitHub](Using-GitHub.md)
 * [Using Docker](tools/using-docker.md)
 
-## 🎞 VIDEOS
+## 🎞️ VIDEOS
 
 * [Quick Tutorials](videos/quick-tutorials.md)
 * [Other Videos](videos/other-videos.md)
