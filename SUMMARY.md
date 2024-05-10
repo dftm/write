@@ -3,7 +3,7 @@
 ## 1️⃣ First
 
 * [Knowledge Hub](README.md)
-* [Curriculum \[⌛\]](first/curriculum.md)
+* [Sample Curriculum \[⌛\]](first/sample-curriculum.md)
 * [Dop Studio Basics](first/dop-studio-basics.md)
 
 ## 🔌 API
