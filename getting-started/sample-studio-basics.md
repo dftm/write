@@ -1,23 +1,23 @@
-# Dop Studio Basics
+# Sample Studio Basics
 
 | Created | @June 20, 2023 10:51 AM |
 | ------- | ----------------------- |
 | Type    | Basic Learning Path     |
 
-### Learning Objectives <a href="#41fe4128-2a5b-4d98-b5f5-2776cfcf9f2e" id="41fe4128-2a5b-4d98-b5f5-2776cfcf9f2e"></a>
+### Learning Objectives <a href="#id-41fe4128-2a5b-4d98-b5f5-2776cfcf9f2e" id="id-41fe4128-2a5b-4d98-b5f5-2776cfcf9f2e"></a>
 
 1. ~~What are the principal learning objectives from this lesson?~~
 2. ~~What role does this lesson play in the greater course?~~
 
 ### Chapters <a href="#b2f5ad35-1304-4f25-8419-f85359c7cc2d" id="b2f5ad35-1304-4f25-8419-f85359c7cc2d"></a>
 
-#### dop Studio Interface <a href="#468b7782-e226-460f-bc54-3e67fcb0c93b" id="468b7782-e226-460f-bc54-3e67fcb0c93b"></a>
+#### Sample Studio Interface <a href="#id-468b7782-e226-460f-bc54-3e67fcb0c93b" id="id-468b7782-e226-460f-bc54-3e67fcb0c93b"></a>
 
-[Navigating the dop Studio interface \[✔️\]](https://www.notion.so/Navigating-the-dop-Studio-interface-02c423bfda654639a8e961fa72589f89?pvs=21)
+[Navigating the Sample Studio interface \[✔️\]](https://www.notion.so/Navigating-the-dop-Studio-interface-02c423bfda654639a8e961fa72589f89?pvs=21)
 
 1. and understanding its components.
 
-#### Training a Model <a href="#89ff1ba8-7b7b-44bf-a093-6d9933ca16ce" id="89ff1ba8-7b7b-44bf-a093-6d9933ca16ce"></a>
+#### Training a Model <a href="#id-89ff1ba8-7b7b-44bf-a093-6d9933ca16ce" id="id-89ff1ba8-7b7b-44bf-a093-6d9933ca16ce"></a>
 
 1. Exploring the process of training a bot model with sample data,
 2. understanding training parameters,

@@ -1,10 +1,10 @@
 # Table of contents
 
-## 1️⃣ First
+## 1️⃣ GETTING STARTED
 
 * [Knowledge Hub](README.md)
-* [Sample Curriculum \[⌛\]](first/sample-curriculum.md)
-* [Dop Studio Basics](first/dop-studio-basics.md)
+* [Sample Curriculum \[⌛\]](getting-started/sample-curriculum.md)
+* [Sample Studio Basics](getting-started/sample-studio-basics.md)
 
 ## 🔌 API
 
