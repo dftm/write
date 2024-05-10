@@ -2,7 +2,7 @@
 
 ## 1️⃣ GETTING STARTED
 
-* [Knowledge Hub](README.md)
+* [About](README.md)
 * [Sample Curriculum \[⌛\]](getting-started/sample-curriculum.md)
 * [Sample Studio Basics](getting-started/sample-studio-basics.md)
 
